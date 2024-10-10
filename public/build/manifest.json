@@ -1,0 +1,142 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-BYGQ-dFR.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/css/progressbar/progress.css": {
+    "file": "assets/progress-CndhjmDZ.css",
+    "src": "resources/css/progressbar/progress.css",
+    "isEntry": true
+  },
+  "resources/js/Progressbar/progress.js": {
+    "file": "assets/progress-CE7tDVe9.js",
+    "name": "progress",
+    "src": "resources/js/Progressbar/progress.js",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-Br4l9gNQ.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/sbadmin/css/sb-admin-2.min.css": {
+    "file": "assets/sb-admin-2-DU2Sgntq.css",
+    "src": "resources/sbadmin/css/sb-admin-2.min.css",
+    "isEntry": true
+  },
+  "resources/sbadmin/img/undraw_posting_photo.svg": {
+    "file": "assets/undraw_posting_photo-DXtVkoMe.svg",
+    "src": "resources/sbadmin/img/undraw_posting_photo.svg"
+  },
+  "resources/sbadmin/img/undraw_profile.svg": {
+    "file": "assets/undraw_profile-BdXq-kE7.svg",
+    "src": "resources/sbadmin/img/undraw_profile.svg"
+  },
+  "resources/sbadmin/img/undraw_profile_1.svg": {
+    "file": "assets/undraw_profile_1-BnCJJLVE.svg",
+    "src": "resources/sbadmin/img/undraw_profile_1.svg"
+  },
+  "resources/sbadmin/img/undraw_profile_2.svg": {
+    "file": "assets/undraw_profile_2-mfzhZDAh.svg",
+    "src": "resources/sbadmin/img/undraw_profile_2.svg"
+  },
+  "resources/sbadmin/img/undraw_profile_3.svg": {
+    "file": "assets/undraw_profile_3-28fYDfL0.svg",
+    "src": "resources/sbadmin/img/undraw_profile_3.svg"
+  },
+  "resources/sbadmin/img/undraw_rocket.svg": {
+    "file": "assets/undraw_rocket-azJDlJCg.svg",
+    "src": "resources/sbadmin/img/undraw_rocket.svg"
+  },
+  "resources/sbadmin/js/sb-admin-2.min.js": {
+    "file": "assets/sb-admin-2.min-CsR1zvID.js",
+    "name": "sb-admin-2.min",
+    "src": "resources/sbadmin/js/sb-admin-2.min.js",
+    "isEntry": true
+  },
+  "resources/sbadmin/vendor/bootstrap/js/bootstrap.bundle.min.js": {
+    "file": "assets/bootstrap.bundle.min-uO3lio1e.js",
+    "name": "bootstrap.bundle.min",
+    "src": "resources/sbadmin/vendor/bootstrap/js/bootstrap.bundle.min.js",
+    "isEntry": true
+  },
+  "resources/sbadmin/vendor/fontawesome-free/css/all.min.css": {
+    "file": "assets/all-D-FX6Pvs.css",
+    "src": "resources/sbadmin/vendor/fontawesome-free/css/all.min.css",
+    "isEntry": true
+  },
+  "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-brands-400.eot": {
+    "file": "assets/fa-brands-400-D3wvMVi2.eot",
+    "src": "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-brands-400.eot"
+  },
+  "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-brands-400.svg": {
+    "file": "assets/fa-brands-400-B2fI82dS.svg",
+    "src": "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-brands-400.svg"
+  },
+  "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400-GzH33SHB.ttf",
+    "src": "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-brands-400.ttf"
+  },
+  "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-brands-400.woff": {
+    "file": "assets/fa-brands-400-BrNqf9Ps.woff",
+    "src": "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-brands-400.woff"
+  },
+  "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400-CQ9wNAI5.woff2",
+    "src": "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-brands-400.woff2"
+  },
+  "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-regular-400.eot": {
+    "file": "assets/fa-regular-400-DC-0mCsK.eot",
+    "src": "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-regular-400.eot"
+  },
+  "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-regular-400.svg": {
+    "file": "assets/fa-regular-400-C6K8o2wy.svg",
+    "src": "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-regular-400.svg"
+  },
+  "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400-D6psiunw.ttf",
+    "src": "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-regular-400.ttf"
+  },
+  "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-regular-400.woff": {
+    "file": "assets/fa-regular-400-ypGq6Ymr.woff",
+    "src": "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-regular-400.woff"
+  },
+  "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400-CeL5tBMC.woff2",
+    "src": "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-regular-400.woff2"
+  },
+  "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-solid-900.eot": {
+    "file": "assets/fa-solid-900-Dqbwa24Z.eot",
+    "src": "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-solid-900.eot"
+  },
+  "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-solid-900.svg": {
+    "file": "assets/fa-solid-900-BzItJ-zV.svg",
+    "src": "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-solid-900.svg"
+  },
+  "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900-BttSODt4.ttf",
+    "src": "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-solid-900.ttf"
+  },
+  "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-solid-900.woff": {
+    "file": "assets/fa-solid-900-Ch--Nxnh.woff",
+    "src": "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-solid-900.woff"
+  },
+  "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900-ClZaRJOS.woff2",
+    "src": "resources/sbadmin/vendor/fontawesome-free/webfonts/fa-solid-900.woff2"
+  },
+  "resources/sbadmin/vendor/jquery-easing/jquery.easing.min.js": {
+    "file": "assets/jquery.easing.min-BVrlFFR9.js",
+    "name": "jquery.easing.min",
+    "src": "resources/sbadmin/vendor/jquery-easing/jquery.easing.min.js",
+    "isEntry": true
+  },
+  "resources/sbadmin/vendor/jquery/jquery.min.js": {
+    "file": "assets/jquery.min-5GtrIU7X.js",
+    "name": "jquery.min",
+    "src": "resources/sbadmin/vendor/jquery/jquery.min.js",
+    "isEntry": true
+  }
+}

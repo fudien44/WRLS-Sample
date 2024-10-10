@@ -1,0 +1,231 @@
+body {
+    overflow-x: auto;
+    overflow-y: auto;
+}
+
+.form-background-color {
+    background-color: rgb(13, 110, 110);
+}
+
+.form-content {
+    margin-top: 80px;
+    background-color: rgba(14, 39, 150, 0.584);
+    padding: 20px 10px;
+    display: block;
+}
+.custom-card {
+    width: 100%; /* Adjust this value as needed */
+    max-width: 1200px; /* Adjust this value as needed */
+    margin: 0 auto; /* Center the card horizontally */
+}
+
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    justify-content: center;
+    text-align: center;
+}
+
+.title {
+    margin: 10px;
+    font-size: 24px;
+    text-align: center;
+    color: white;
+}
+
+.card {
+    text-align: initial;
+    margin-top: 10px;
+    margin: 0;
+    border-radius: 10px;
+    background-color: ghostwhite;
+}
+
+.card-body {
+    align-items: center;
+    justify-items: center;
+    padding: 20px 20px;
+}
+
+.form-label {
+    text-transform: uppercase;
+    color: black;
+}
+
+.btn-primary {
+    margin: 10px 0px 0px 0px;
+    width: 100%;
+    padding: 10px;
+}
+
+.forgot-password {
+    text-align: end;
+}
+
+img{
+    height:100px
+}
+
+.icon-container {
+    text-align: center;
+    justify-content: center;
+}
+
+#login-form input[type="password"],
+#login-form input[type="text"] {
+    width: 100%;
+    padding: 12px 36px 12px 12px;
+    box-sizing: border-box;
+}
+
+.password-container {
+    width: 300ppx;
+    position: relative;
+}
+
+.container {
+    display: flex;
+}
+
+.container.space-between {
+    justify-content: space-between;
+}
+
+.bi bi-eye {
+    position: absolute;
+    top: 28%;
+    right: 4%;
+    cursor: pointer;
+    color: lightgrey;
+}
+
+footer {
+    text-align: center;
+    color: white;
+}
+
+.div-content {
+    margin-top: 20px;
+    margin-left: 0px !important;
+    overflow: auto;
+}
+
+header h3 {
+    margin: 20px;
+    text-align: center;
+    color: white;
+}
+
+.table {
+    padding: 0 !important;
+    margin-bottom: 0 !important;
+    width: 100%;
+    min-width: fit-content;
+    table-layout: fixed;
+    border-radius: 10px;
+}
+
+.table-header {
+    text-align: center;
+    align-content: center;
+}
+
+.table-card {
+    text-align: initial;
+    margin-top: 10px;
+    margin: 0 !important;
+    border-radius: 10px;
+}
+
+.table-title {
+    text-align: center;
+}
+
+th,
+td {
+    /* text-align: center; */
+    width: 584px;
+    height: 30%;
+    min-height: fit-content;
+}
+
+.table td:last-child {
+    width: 584px;
+}
+
+.table tr {
+    overflow: auto;
+}
+
+accordion-header {
+    line-height: 100px;
+    text-align: center;
+}
+
+.inspector_accept-btn {
+    padding: 4px;
+}
+
+.inspector_reject-btn {
+    padding: 4px;
+}
+
+.view_attach-btn {
+    padding: 4px;
+}
+
+.inspectorRmrks {
+    display: none;
+    margin-top: 5px;
+    height: 100px;
+    width: 100%;
+}
+
+.inspectionRmrks {
+    width: 100%;
+    height: 45px
+}
+
+.form-group {
+    justify-content: space-between;
+}
+/*
+#dt-search-0 {
+    white-space: initial;
+    width: 613px
+} */
+
+.alert{
+    text-align: center;
+    position:fixed;
+    top: 0px;
+    left: 25%;
+    width: 50%;
+    z-index:9999;
+    border-radius:0px;
+}
+
+.alert-facility{
+    text-align: center;
+    position:fixed;
+    top: 0px;
+    left: 25%;
+    width: 50%;
+    z-index:9999;
+    border-radius:0px;
+    display: none;
+}
+
+/* .alert-email{
+    text-align: center;
+    position:fixed;
+    top: 100px;
+    left: 25%;
+    width: 50%;
+    z-index:9999;
+    border-radius:0px
+} */
